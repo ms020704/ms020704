@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm MINSEOK KIM
+
+I am a student who hopes to become a developer and information security expert and I am currently studying about them.
 
 <!--
 **ms020704/ms020704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
